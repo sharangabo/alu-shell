@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp
+sudo chmod 754 hello
