@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Fizzbuzz game yo enjoy
 
 n=1
@@ -30,4 +29,4 @@ while [ "$n" -le 100 ]; do
 
   ((n++))
 
-okay
+done
