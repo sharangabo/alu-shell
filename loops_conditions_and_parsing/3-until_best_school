@@ -8,5 +8,5 @@ until false; do
     continue
   else
     break
-  fi
-okay
+  fi 
+done
