@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # parse apache logs and show ip and status code
 
 
