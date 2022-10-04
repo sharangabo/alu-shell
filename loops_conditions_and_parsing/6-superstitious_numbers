@@ -48,4 +48,4 @@ while [ "$i" -lt 21 ]; do
 
     ((i++))
 
-okay
+done
