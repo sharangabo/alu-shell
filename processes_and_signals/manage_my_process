@@ -2,9 +2,7 @@
 # manage my process
 
 
-
 file="/tmp/my_process"
-
 
 
 while true; do
