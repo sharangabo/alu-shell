@@ -2,13 +2,15 @@
 # manage my process
 
 
+
 file="/tmp/my_process"
+
 
 
 while true; do
 
-  echo "I am alive!" >> "$file"
+	  echo "I am alive!" >> "$file"
 
-  sleep 2
+	    sleep 2
 
-done
+    done
